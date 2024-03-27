@@ -1,5 +1,6 @@
 ![React Logo](https://st.timeweb.com/cloud-static/apps-logo/react.svg)
 
+
 # React
 
 Пример приложения [React](https://react.dev/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
